@@ -1,0 +1,19 @@
+From: Stallings@localhost
+To: Andrew@localhost
+Subject: SMTP Experiment
+Received: 30/3/2021:5:20
+Next evaluation will be on 22 March 2021.
+Please be ready.
+.
+From: Stallings@localhost
+To: Andrew@localhost
+Subject: Continuation...
+Received: 30/3/2021:5:24
+This is a test email for checking the appending feature
+.
+From: Fourouzan@mail.com
+To: Andrew@123.com
+Subject: Multi-Client Testign
+Received: 30/3/2021:5:33
+Testing Muiltiple clients concurrently
+.
